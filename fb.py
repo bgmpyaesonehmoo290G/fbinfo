@@ -2,9 +2,9 @@
 import requests
 import pyfiglet
 import time
-os.system("clear")
 a = pyfiglet.figlet_format('facebook info')
 b = pyfiglet.figlet_format( 'PyaeSoneHmoo')
+os.system("clear")
 print(a)
 print(b)
 print("autor by: Pyae Sone Hmoo")
