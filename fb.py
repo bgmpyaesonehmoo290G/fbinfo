@@ -2,6 +2,7 @@
 import requests
 import pyfiglet
 import time
+os.system("clear")
 a = pyfiglet.figlet_format('facebook info')
 b = pyfiglet.figlet_format( 'PyaeSoneHmoo')
 print(a)
