@@ -27,8 +27,8 @@ print ("
 '   ║╬║╔╦╗╔═╗─╔═╗║══╣╔═╗╔═╦╗╔═╗║╚╝║╔══╗╔═╗╔═╗'
 '   ║╔╝║║║║╬╚╗║╩╣╠══║║╬║║║║║║╩╣║╔╗║║║║║║╬║║╬║'
 '   ╚╝─╠╗║╚══╝╚═╝╚══╝╚═╝╚╩═╝╚═╝╚╝╚╝╚╩╩╝╚═╝╚═╝'
-'   ───╚═╝───────────────────────────')
-")
+'   ───╚═╝───────────────────────────")
+
 print("autor by: Pyae Sone Hmoo")
 print("dont use illegal")
 print('please login with your facebook \n for hack your firends info')
