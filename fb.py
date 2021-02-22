@@ -4,7 +4,7 @@ import pyfiglet
 import time
 a = pyfiglet.figlet_format('facebook info')
 print(a)
-print "\e[96m
+print ("
  '     ██░▀██████████████▀░██\n'
 '      █▌▒▒░████████████░▒▒▐█\n'
 '      █░▒▒▒░██████████░▒▒▒░█\n'
@@ -28,7 +28,7 @@ print "\e[96m
 '   ║╔╝║║║║╬╚╗║╩╣╠══║║╬║║║║║║╩╣║╔╗║║║║║║╬║║╬║'
 '   ╚╝─╠╗║╚══╝╚═╝╚══╝╚═╝╚╩═╝╚═╝╚╝╚╝╚╩╩╝╚═╝╚═╝'
 '   ───╚═╝───────────────────────────')
-"
+")
 print("autor by: Pyae Sone Hmoo")
 print("dont use illegal")
 print('please login with your facebook \n for hack your firends info')
