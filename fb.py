@@ -1,13 +1,21 @@
+import random
 import os
 import requests
 import pyfiglet
 import time
+# colors
+yellow='\033[93m'
+gren='\033[92m'
+cyan='\033[96m'
+pink='\033[95m'
+red='\033[91m'
+b='\033[1m'
 a = pyfiglet.figlet_format('facebook info')
 b = pyfiglet.figlet_format( 'PyaeSoneHmoo')
 os.system("clear")
 print(a)
 print(b)
-print("autor by: Pyae Sone Hmoo")
+print(gren+b+"autor by: Pyae Sone Hmoo"+b+gren)
 print("dont use illegal")
 print('please login with your facebook \n for hack your firends info')
 
